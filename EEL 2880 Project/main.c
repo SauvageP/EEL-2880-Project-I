@@ -44,7 +44,7 @@ int main(void) {
     for (int k = -17; k <= 17; ++k) {
         if (k % 3) {
             cube = pow(k, 3);
-            printf("Teh cube of %d is %d\n", k, cube);
+            printf("The cube of %d is %d\n", k, cube);
         }
     }
     
